@@ -1,0 +1,8 @@
+30 255 255 255Fonts/BusLedDisplaySmall.ttf
+
+
+Press [H] now to show help.
+Press [C] now to choose character.
+-----Press [F2] to switch character.
+-----Press [R] to return.
+-----Press [BlankSpace] to play.

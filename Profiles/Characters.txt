@@ -1,0 +1,3 @@
+Profiles/Pinkamena/Pinkamena.txt
+Profiles/SG/SG.txt
+Profiles/TS/TS.txt

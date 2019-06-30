@@ -1,0 +1,17 @@
+20 18 114 231Fonts/Pro55 Bold.ttf
+I am a big fan of MLP(My Little Pony), so this game's theme is MLP
+
+You could write profiles of your own and create a new Character.
+
+How to play ? 
+Press [F1] to turn grid on or off.
+Press [F2] to switch between character photo 
+or pure color background.
+Press [M] to mute/play sound.
+Press [Q]/[RShift]/[MouseRightButton] to perform skill.
+Press [P] to stop and Press [R] to play.
+Press [Esacpe] to return to Home.
+
+Hope you enjoy you play!
+
+Press [R] to return.

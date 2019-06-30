@@ -1,0 +1,5 @@
+45 255 255 255Fonts/BusLedDisplaySmall.ttf
+
+Press [SPACE] to play
+
+Press [ESC] to quit

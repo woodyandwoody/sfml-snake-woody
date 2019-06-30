@@ -1,0 +1,65 @@
+Startlight Glimmer
+Profiles/SG/SG_intro.txt
+Profiles/SG/SG_BGM.ogg
+Profiles/SG/switch_cuitemark.png
+Profiles/SG/pick_up_02.wav
+Profiles/SG/SG_die.ogg
+Profiles/SG/SG_die.png
+Profiles/SG/SG_win.ogg
+Profiles/SG/SG_win.png
+241 199 248
+241 199 248
+241 199 248
+218 173 216
+6 6
+246 196 217 0 5
+218 173 216 0 7
+240 242 246 1 9
+242 188 107 1 11
+246 241 181 2 13
+163 223 246 2 15
+30
+1 1 1
+1
+169 251 251
+0.5 0.2 50 540 0
+40
+1 1 1 0 0 1
+25
+Profiles/SG/SG_Skill.ogg
+EFFECT_PHOTO_PATHS_MARK_
+Profiles/SG/Skill_video/SG_Skill_video00.png
+Profiles/SG/Skill_video/SG_Skill_video01.png
+Profiles/SG/Skill_video/SG_Skill_video02.png
+Profiles/SG/Skill_video/SG_Skill_video03.png
+Profiles/SG/Skill_video/SG_Skill_video04.png
+Profiles/SG/Skill_video/SG_Skill_video05.png
+Profiles/SG/Skill_video/SG_Skill_video06.png
+Profiles/SG/Skill_video/SG_Skill_video07.png
+Profiles/SG/Skill_video/SG_Skill_video08.png
+Profiles/SG/Skill_video/SG_Skill_video09.png
+Profiles/SG/Skill_video/SG_Skill_video10.png
+Profiles/SG/Skill_video/SG_Skill_video11.png
+Profiles/SG/Skill_video/SG_Skill_video12.png
+Profiles/SG/Skill_video/SG_Skill_video13.png
+Profiles/SG/Skill_video/SG_Skill_video14.png
+Profiles/SG/Skill_video/SG_Skill_video15.png
+Profiles/SG/Skill_video/SG_Skill_video16.png
+Profiles/SG/Skill_video/SG_Skill_video17.png
+Profiles/SG/Skill_video/SG_Skill_video18.png
+Profiles/SG/Skill_video/SG_Skill_video19.png
+Profiles/SG/Skill_video/SG_Skill_video20.png
+Profiles/SG/Skill_video/SG_Skill_video21.png
+Profiles/SG/Skill_video/SG_Skill_video22.png
+Profiles/SG/Skill_video/SG_Skill_video23.png
+Profiles/SG/Skill_video/SG_Skill_video24.png
+Profiles/SG/Skill_video/SG_Skill_video25.png
+Profiles/SG/Skill_video/SG_Skill_video26.png
+Profiles/SG/Skill_video/SG_Skill_video27.png
+Profiles/SG/Skill_video/SG_Skill_video28.png
+Profiles/SG/Skill_video/SG_Skill_video29.png
+Profiles/SG/Skill_video/SG_Skill_video30.png
+Profiles/SG/Skill_video/SG_Skill_video31.png
+Profiles/SG/Skill_video/SG_Skill_video32.png
+Profiles/SG/Skill_video/SG_Skill_video33.png
+Profiles/SG/Skill_video/SG_Skill_video34.png

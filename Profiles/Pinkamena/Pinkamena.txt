@@ -1,0 +1,20 @@
+Pinkamena
+Profiles/Pinkamena/Pinkamena_intro.txt
+Profiles/Pinkamena/33_Night.ogg
+Profiles/Pinkamena/Pinka_02.png
+Profiles/Pinkamena/pick_up_01.wav
+Profiles/Pinkamena/07_Pinkamena_Diane_Pie.ogg
+Profiles/Pinkamena/Pinkamena.png
+Profiles/Pinkamena/21_Pinkie pie with voice.ogg
+Profiles/Pinkamena/PP_BG.png
+222 200 215
+125 49 54
+234 172 198
+128 52 55
+2 6
+183 182 189 1 5
+178 138 156 1 10
+40
+1 1
+1
+0
